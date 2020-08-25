@@ -39,7 +39,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;">
-<img alt='Firebase-todo' src='./fbase.png' />
+<img alt='Firebase-todo' src='https://github.com/Rushil-Dhinoja/files/blob/master/fbase.png' />
 <div class='project-item'>
 <p>
     An Full-Stack todo app with user authentication built using react, redux and firebase as authentication provider and database. Styled Components for Styling
@@ -53,7 +53,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img alt='Photographer-portfolio' src='./ps.png' />
+<img alt='Photographer-portfolio' src='https://github.com/Rushil-Dhinoja/files/blob/master/ps.png' />
 <div class='project-item'>
 <p>
     Static Portfolio Website for a Photographer Friend. Built using HTML, SCSS and JS.
@@ -67,7 +67,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img alt='Kroschke-landing' src='./client.png' />
+<img alt='Kroschke-landing' src='https://github.com/Rushil-Dhinoja/files/blob/master/client.png' />
 <div class='project-item'>
 <p>
     An Static Website for a german auto garage. Built using HTML, CSS and JS. It was my first client project.
@@ -81,7 +81,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img alt='Natours-ecommerce' src='./natours.png' />
+<img alt='Natours-ecommerce' src='https://github.com/Rushil-Dhinoja/files/blob/master/natours.png' />
 <div class='project-item'>
 <p>
     This is the most complex project I have ever created it is a full-stack E-commerce platform for travel tours booking. It uses nodeJs and ExpressJS as back-end. MongoDB as Database and PUG-template engine for front-end. It also has stripe payment integration.
@@ -95,7 +95,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img alt='Dev-connector' src='./dev.png' />
+<img alt='Dev-connector' src='https://github.com/Rushil-Dhinoja/files/blob/master/dev.png' />
 <div class='project-item'>
 <p>
     My second full-stack app created using MERN Stack. It is a social media for developers where they can share their work experience, their education and can also create a post.
