@@ -11,8 +11,6 @@
 
 ## I'm a student, developer, and entrepreneur.
 
-<hr/>
-
 -   ⌛ Currently working on a suite of npm packages for my own startup Molecule INC.
 -   ⚛ Trying to learn everything.
 -   ⌨ Trying to find client for freelancing. <a href="mailto:mr.rushil17@gmail.com" >Contact</a>
