@@ -1,4 +1,4 @@
-<link rel='stylesheet' type='text/css' media='all' href='https://github.com/Rushil-Dhinoja/files/blob/master/main.css'/>
+<link rel='stylesheet' type='text/css' media='all' href='./main.css'/>
     
 ### Hi there, I'm Rushil Dhinoja.
 
@@ -10,6 +10,8 @@
 </div>
 
 ## I'm a student, developer, and entrepreneur.
+
+<hr/>
 
 -   ⌛ Currently working on a suite of npm packages for my own startup Molecule INC.
 -   ⚛ Trying to learn everything.
@@ -104,5 +106,32 @@
 </div>
 </div>
 </div>
+
+</div>
+
+## MY Tech Stack
+
+<div class='images'>
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+
+<img alt='vscode' width="26px" align="left" src='https://github.com/Rushil-Dhinoja/files/blob/master/vscode.png'>
+<img alt='html' width="26px" align="left" src='https://github.com/Rushil-Dhinoja/files/blob/master/htmk.png'>
+<img alt='CSS' width="26px" align="left" src='https://github.com/Rushil-Dhinoja/files/blob/master/css.png'>
+<img width="26px" align="left" alt='sass' src='https://github.com/Rushil-Dhinoja/files/blob/master/sass.png'>
+<img width="26px" align="left" alt='js' src='https://github.com/Rushil-Dhinoja/files/blob/master/js.png'>
+<img width="26px" align="left" alt='react' src='https://github.com/Rushil-Dhinoja/files/blob/master/react.webp'>
+<img width="26px" align="left" alt='Redux' src='https://github.com/Rushil-Dhinoja/files/blob/master/redux.png'>
+<img width="26px" align="left" alt='react' src='https://github.com/Rushil-Dhinoja/files/blob/master/node.png'>
+<img width="26px" align="left" alt='express' src='https://github.com/Rushil-Dhinoja/files/blob/master/express.png'>
+<img width="26px" align="left" alt='gatsby' src='https://github.com/Rushil-Dhinoja/files/blob/master/gatsby.png'>
+<img width="26px" align="left" alt='graphql' src='https://github.com/Rushil-Dhinoja/files/blob/master/graphql.png'>
+<img width="26px" align="left" alt='mongodb' src='https://github.com/Rushil-Dhinoja/files/blob/master/mongo.png'>
+<img width="26px" align="left" alt='git' src='https://github.com/Rushil-Dhinoja/files/blob/master/git.png'>
+<img width="26px" align="left" alt='github' src='https://github.com/Rushil-Dhinoja/files/blob/master/github.png'>
+<img width="26px" align="left" alt='terminal' src='https://github.com/Rushil-Dhinoja/files/blob/master/terminal.png'>
+<img width="26px" align="left" alt='firebase' src='https://github.com/Rushil-Dhinoja/files/blob/master/firebase.png'>
+<img width="26px" align="left" alt='netlify' src='https://github.com/Rushil-Dhinoja/files/blob/master/netlify.png'>
+<img width="26px" align="left" alt='heroku' src='https://github.com/Rushil-Dhinoja/files/blob/master/heroku.png'>
 
 </div>
