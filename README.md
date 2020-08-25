@@ -25,7 +25,7 @@
 <div class='project-grid' >
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img alt='Poke-dex' src='./live.png' />
+<img alt='Poke-dex' src='https://github.com/Rushil-Dhinoja/files/blob/master/live.png' />
 <div class='project-item'>
 <p>
     Built with the help of PokeAPI is a front-application which fetches all the pokemon information. It use react as a front-end and redux as a state-manager. Scss is used for styling.
