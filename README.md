@@ -22,7 +22,7 @@
 
 ## Projects
 
-<div class='project-grid' >
+<div markdown='1' class='project-grid' >
 <div style="margin-bottom: 1rem;
     display: flex;" >
 <img alt='Poke-dex' src='https://github.com/Rushil-Dhinoja/files/blob/master/live.png' />
