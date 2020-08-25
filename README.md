@@ -113,7 +113,7 @@
 
 <div class='images'>
 
-<!-- <img alt='vscode' src='https://github.com/Rushil-Dhinoja/files/blob/master/vscode.png'>
+<img alt='vscode' src='https://github.com/Rushil-Dhinoja/files/blob/master/vscode.png'>
 <img alt='html' src='https://github.com/Rushil-Dhinoja/files/blob/master/htmk.png'>
 <img alt='CSS' src='https://github.com/Rushil-Dhinoja/files/blob/master/css.png'>
 <img alt='sass' src='https://github.com/Rushil-Dhinoja/files/blob/master/sass.png'>
@@ -130,6 +130,6 @@
 <img alt='terminal' src='https://github.com/Rushil-Dhinoja/files/blob/master/terminal.png'>
 <img alt='firebase' src='https://github.com/Rushil-Dhinoja/files/blob/master/firebase.png'>
 <img alt='netlify' src='https://github.com/Rushil-Dhinoja/files/blob/master/netlify.png'>
-<img alt='heroku' src='https://github.com/Rushil-Dhinoja/files/blob/master/heroku.png'> -->
+<img alt='heroku' src='https://github.com/Rushil-Dhinoja/files/blob/master/heroku.png'>
 
 </div>
