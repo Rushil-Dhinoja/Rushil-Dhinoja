@@ -109,32 +109,27 @@
 
 </div>
 
-## Connect
-
-[<img alt='RushilDhinoja@Twitter' src='https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg' />](https://twitter.com/Rushildhinoja2)
-[<img alt='RushilDhinoja@Twitter' src='https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/instagram.svg' />](https://www.instagram.com/rushil_dhinoja/)
-
 ## MY Tech Stack
 
 <div class='images'>
 
-<!-- <img alt='vscode' src='./vscode.png'>
-<img alt='html' src='./htmk.png'>
-<img alt='CSS' src='./css.png'>
-<img alt='sass' src='./sass.png'>
-<img alt='js' src='./js.png'>
-<img alt='react' src='./react.webp'>
-<img alt='Redux' src='./redux.png'>
-<img alt='react' src='./node.png'>
-<img alt='express' src='./express.png'>
-<img alt='gatsby' src='./gatsby.png'>
-<img alt='graphql' src='./graphql.png'>
-<img alt='mongodb' src='./mongo.png'>
-<img alt='git' src='./git.png'>
-<img alt='github' src='./github.png'>
-<img alt='terminal' src='./terminal.png'>
-<img alt='firebase' src='./firebase.png'>
-<img alt='netlify' src='./netlify.png'>
-<img alt='heroku' src='./heroku.png'> -->
+<!-- <img alt='vscode' src='https://github.com/Rushil-Dhinoja/files/blob/master/vscode.png'>
+<img alt='html' src='https://github.com/Rushil-Dhinoja/files/blob/master/htmk.png'>
+<img alt='CSS' src='https://github.com/Rushil-Dhinoja/files/blob/master/css.png'>
+<img alt='sass' src='https://github.com/Rushil-Dhinoja/files/blob/master/sass.png'>
+<img alt='js' src='https://github.com/Rushil-Dhinoja/files/blob/master/js.png'>
+<img alt='react' src='https://github.com/Rushil-Dhinoja/files/blob/master/react.webp'>
+<img alt='Redux' src='https://github.com/Rushil-Dhinoja/files/blob/master/redux.png'>
+<img alt='react' src='https://github.com/Rushil-Dhinoja/files/blob/master/node.png'>
+<img alt='express' src='https://github.com/Rushil-Dhinoja/files/blob/master/express.png'>
+<img alt='gatsby' src='https://github.com/Rushil-Dhinoja/files/blob/master/gatsby.png'>
+<img alt='graphql' src='https://github.com/Rushil-Dhinoja/files/blob/master/graphql.png'>
+<img alt='mongodb' src='https://github.com/Rushil-Dhinoja/files/blob/master/mongo.png'>
+<img alt='git' src='https://github.com/Rushil-Dhinoja/files/blob/master/git.png'>
+<img alt='github' src='https://github.com/Rushil-Dhinoja/files/blob/master/github.png'>
+<img alt='terminal' src='https://github.com/Rushil-Dhinoja/files/blob/master/terminal.png'>
+<img alt='firebase' src='https://github.com/Rushil-Dhinoja/files/blob/master/firebase.png'>
+<img alt='netlify' src='https://github.com/Rushil-Dhinoja/files/blob/master/netlify.png'>
+<img alt='heroku' src='https://github.com/Rushil-Dhinoja/files/blob/master/heroku.png'> -->
 
 </div>
