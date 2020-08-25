@@ -23,7 +23,8 @@
 ## Projects
 
 <div class='project-grid' >
-<div>
+<div style="margin-bottom: 1rem;
+    display: flex;" >
 <img alt='Poke-dex' src='./live.png' />
 <div class='project-item'>
 <p>
@@ -36,7 +37,8 @@
 </div>
 </div>
 
-<div>
+<div style="margin-bottom: 1rem;
+    display: flex;">
 <img alt='Firebase-todo' src='./fbase.png' />
 <div class='project-item'>
 <p>
@@ -49,7 +51,8 @@
 </div>
 </div>
 
-<div>
+<div style="margin-bottom: 1rem;
+    display: flex;" >
 <img alt='Photographer-portfolio' src='./ps.png' />
 <div class='project-item'>
 <p>
@@ -62,7 +65,8 @@
 </div>
 </div>
 
-<div>
+<div style="margin-bottom: 1rem;
+    display: flex;" >
 <img alt='Kroschke-landing' src='./client.png' />
 <div class='project-item'>
 <p>
@@ -75,7 +79,8 @@
 </div>
 </div>
 
-<div>
+<div style="margin-bottom: 1rem;
+    display: flex;" >
 <img alt='Natours-ecommerce' src='./natours.png' />
 <div class='project-item'>
 <p>
@@ -88,7 +93,8 @@
 </div>
 </div>
 
-<div>
+<div style="margin-bottom: 1rem;
+    display: flex;" >
 <img alt='Dev-connector' src='./dev.png' />
 <div class='project-item'>
 <p>
@@ -112,7 +118,7 @@
 
 <div class='images'>
 
-<img alt='vscode' src='./vscode.png'>
+<!-- <img alt='vscode' src='./vscode.png'>
 <img alt='html' src='./htmk.png'>
 <img alt='CSS' src='./css.png'>
 <img alt='sass' src='./sass.png'>
@@ -129,6 +135,6 @@
 <img alt='terminal' src='./terminal.png'>
 <img alt='firebase' src='./firebase.png'>
 <img alt='netlify' src='./netlify.png'>
-<img alt='heroku' src='./heroku.png'>
+<img alt='heroku' src='./heroku.png'> -->
 
 </div>
