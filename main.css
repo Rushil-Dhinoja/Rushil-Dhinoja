@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    align-self: flex-start;
+    margin-bottom: 2rem;
+}
+
+.badges {
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    align-self: flex-start;
+}
+
+h2:nth-of-type(2) {
+    margin-bottom: 1rem;
+}
+
+img {
+    width: 30px;
+    margin-right: 1rem;
+}
+
+.project-grid div {
+    margin-bottom: 1rem;
+    display: flex;
+}
+
+.project-grid div img {
+    width: 250px;
+    align-self: flex-start;
+}
+
+.project-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.project-item a {
+    margin-right: 1rem;
+}
+
+.images {
+    display: flex;
+}
