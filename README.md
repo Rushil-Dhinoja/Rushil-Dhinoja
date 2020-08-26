@@ -126,7 +126,7 @@
 <img width="26px" align="left" alt='graphql' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png'>
 <img width="26px" align="left" alt='mongodb' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png'>
 <img width="26px" align="left" alt='git' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'>
-<img width="26px" align="left" alt='github' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png'>
+<img width="26px" align="left" alt='github' src='https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png'>
 <img width="26px" align="left" alt='terminal' src='https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png'>
 <img width="26px" align="left" alt='firebase' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png'>
 <img width="26px" align="left" alt='netlify' src='https://github.com/Rushil-Dhinoja/files/blob/master/netlify.png'>
