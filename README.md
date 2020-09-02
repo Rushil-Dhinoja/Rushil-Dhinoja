@@ -13,19 +13,19 @@
 
 <hr/>
 
--   ⌛ Currently working on a suite of npm packages for my own startup Molecule INC.
--   ⚛ Trying to learn everything.
--   ⌨ Trying to find client for freelancing. <a href="mailto:mr.rushil17@gmail.com" >Contact</a>
--   ⚽ 2020 Goals : To start a web development startup.
--   📚 Reader, Currently reading **Bhagavad Gita**.
--   ☕ Black Coffer over anything.
+- ⌛ Currently working on a suite of npm packages for my own startup Molecule INC.
+- ⚛ Trying to learn everything.
+- ⌨ Trying to find client for freelancing. <a href="mailto:mr.rushil17@gmail.com" >Contact</a>
+- ⚽ 2020 Goals : To start a web development startup.
+- 📚 Reader, Currently reading **Bhagavad Gita**.
+- ☕ Black Coffer over anything.
 
 ## Projects
 
 <div markdown='1' class='project-grid' >
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img width="500px" alt='Poke-dex' src='https://github.com/Rushil-Dhinoja/files/blob/master/live.png' />
+<img width="500px" alt='Poke-dex' src='./img/live.png' />
 <div class='project-item'>
 <p>
     Built with the help of PokeAPI is a front-application which fetches all the pokemon information. It use react as a front-end and redux as a state-manager. Scss is used for styling.
@@ -39,7 +39,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;">
-<img width="500px" alt='Firebase-todo' src='https://github.com/Rushil-Dhinoja/files/blob/master/fbase.png' />
+<img width="500px" alt='Firebase-todo' src='./img/fbase.png' />
 <div class='project-item'>
 <p>
     An Full-Stack todo app with user authentication built using react, redux and firebase as authentication provider and database. Styled Components for Styling
@@ -53,7 +53,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img width="500px" alt='Photographer-portfolio' src='https://github.com/Rushil-Dhinoja/files/blob/master/ps.png' />
+<img width="500px" alt='Photographer-portfolio' src='./img/ps.png' />
 <div class='project-item'>
 <p>
     Static Portfolio Website for a Photographer Friend. Built using HTML, SCSS and JS.
@@ -67,7 +67,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img width="500px" alt='Kroschke-landing' src='https://github.com/Rushil-Dhinoja/files/blob/master/client.png' />
+<img width="500px" alt='Kroschke-landing' src='./img/client.png' />
 <div class='project-item'>
 <p>
     An Static Website for a german auto garage. Built using HTML, CSS and JS. It was my first client project.
@@ -81,7 +81,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img width="500px" alt='Natours-ecommerce' src='https://github.com/Rushil-Dhinoja/files/blob/master/natours.png' />
+<img width="500px" alt='Natours-ecommerce' src='./img/natours.png' />
 <div class='project-item'>
 <p>
     This is the most complex project I have ever created it is a full-stack E-commerce platform for travel tours booking. It uses nodeJs and ExpressJS as back-end. MongoDB as Database and PUG-template engine for front-end. It also has stripe payment integration.
@@ -95,7 +95,7 @@
 
 <div style="margin-bottom: 1rem;
     display: flex;" >
-<img width="500px" alt='Dev-connector' src='https://github.com/Rushil-Dhinoja/files/blob/master/dev.png' />
+<img width="500px" alt='Dev-connector' src='./img/dev.png' />
 <div class='project-item'>
 <p>
     My second full-stack app created using MERN Stack. It is a social media for developers where they can share their work experience, their education and can also create a post.
