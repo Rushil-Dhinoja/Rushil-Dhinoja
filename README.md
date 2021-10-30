@@ -13,11 +13,9 @@
 
 <hr/>
 
-- ⌛ Currently working on a suite of npm packages for my own startup Molecule INC.
+- ⌛ Currently working on a suite of npm packages Molecule-UI.
 - ⚛ Trying to learn everything.
-- ⌨ Trying to find client for freelancing. <a href="mailto:mr.rushil17@gmail.com" >Contact</a>
-- ⚽ 2020 Goals : To start a web development startup.
-- 📚 Reader, Currently reading **Bhagavad Gita**.
+- 📚 Reader, Currently reading **Harry Potter**.
 - ☕ Black Coffer over anything.
 
 ## Projects
