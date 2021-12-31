@@ -19,4 +19,3 @@ Also a book worm can read anything Fiction, Non-Fiction, Finance, Economics, etc
 </div>
 
 <h2>Summary</h2>
-[![](https://raw.githubusercontent.com/Rushil-Dhinoja/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
