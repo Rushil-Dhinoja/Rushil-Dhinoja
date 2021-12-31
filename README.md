@@ -19,3 +19,7 @@ Also a book worm can read anything Fiction, Non-Fiction, Finance, Economics, etc
 </div>
 
 <h2>Summary</h2>
+
+[![](https://raw.githubusercontent.com/Rushil-Dhinoja/Rushil-Dhinoja/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Rushil-Dhinoja/Rushil-Dhinoja/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rushil-Dhinoja/Rushil-Dhinoja/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Rushil-Dhinoja/Rushil-Dhinoja/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
