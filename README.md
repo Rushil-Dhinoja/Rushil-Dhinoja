@@ -9,3 +9,5 @@
 [![Twitter](https://img.shields.io/twitter/follow/Rushildhinoja2?label=Follow%20%40RushilDhinoja&style=social)](https://twitter.com/Rushildhinoja2)
 
 </div>
+
+<h2 align="center" ><img src='./img/Keep Learning.png' /></h2>
