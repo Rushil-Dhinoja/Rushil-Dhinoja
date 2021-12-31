@@ -10,4 +10,4 @@
 
 </div>
 
-<h2 align="center" ><img src='./img/Keep Learning.png' /></h2>
+<h2 align="center" ><img height="200px" width="100%" src='./img/Keep Learning.png' /></h2>
