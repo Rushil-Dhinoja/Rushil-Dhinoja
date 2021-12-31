@@ -35,3 +35,4 @@ Also a book worm can read anything Fiction, Non-Fiction, Finance, Economics, etc
 ![ReactJS](https://img.shields.io/badge/React-%231572B6?style=for-the-badge&logo=react&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-%231572B6?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white)
